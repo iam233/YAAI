@@ -1,7 +1,7 @@
 # YAAI
 http://yaai.crystalbili.ml<br>
 English:
-This is "youareanidiot"<br> virus!!!!<br>
+This is "youareanidiot" virus!!!!<br>
 Deploy this webpage on github and let your server jump to this webpage to protect your server!<br>
 简体中文：
 这是"youareanidiot"（你是个笨蛋）病毒！！！！<br>
